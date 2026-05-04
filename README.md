@@ -1,3 +1,6 @@
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat&logo=vercel)
 # menu-for-caffes
 🍔 A premium, interactive McDonald's menu experience powered by Next.js 15 &amp; Tailwind CSS. Featuring seamless cart logic, dynamic animations, and a pixel-perfect responsive UI.
 
