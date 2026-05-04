@@ -1,35 +1,34 @@
 # menu-for-caffes
 🍔 A premium, interactive McDonald's menu experience powered by Next.js 15 &amp; Tailwind CSS. Featuring seamless cart logic, dynamic animations, and a pixel-perfect responsive UI.
 
-# 🍔 McDonald's Interactive Menu Experience
+# 🍔 McDonald's Digital Menu Experience
+Developed with precision by **[MadeByIslom](https://github.com/MadeByIslom)**
 
-Next.js 15 va eng zamonaviy texnologiyalar yordamida qayta ishlangan McDonald's menyu platformasi. Bu shunchaki menyu emas, balki foydalanuvchi uchun yaratilgan raqamli tajribadir.
+Next.js 15 va zamonaviy veb-texnologiyalar asosida yaratilgan interaktiv McDonald's menyu platformasi. Ushbu loyiha foydalanuvchi interfeysi (UI) va foydalanuvchi tajribasiga (UX) alohida urg'u berilgan holda ishlab chiqildi.
 
 ## ✨ Xususiyatlari
-* 🚀 **Next.js 15 (App Router):** Eng so'nggi va tezkor texnologik stack.
-* 🎨 **Tailwind CSS:** Modern va toza interfeys dizayni.
-* 🛒 **Interactive Cart:** Dinamik savatcha tizimi va mahsulotlarni qo'shish logikasi.
-* ✨ **Smooth Animations:** "Fly-to-cart" effekti va interaktiv komponentlar.
-* 📱 **Fully Responsive:** Har qanday qurilma (mobil, planshet, desktop) uchun moslashtirilgan.
+* 🚀 **Next.js 15 (App Router):** Eng so'nggi va tezkor texnologiyalar.
+* 🎨 **Tailwind CSS:** Modern va estetik dizayn.
+* 🛒 **Fly-to-Cart Animation:** Mahsulotlarni savatchaga qo'shishdagi interaktiv effektlar.
+* 📱 **Mobile First:** Barcha qurilmalar uchun 100% moslashuvchan (Responsive).
+* ⚡ **Performance:** Yuqori tezlik va optimallashgan rasm/komponentlar.
 
-## 🛠 Texnologiyalar
-* **Framework:** Next.js 15
-* **Styling:** Tailwind CSS
-* **State Management:** React Context API
-* **Animations:** Framer Motion (yoki CSS animations)
-* **Icons:** Lucide React
+## 🛠 Texnologik Stack
+- **Framework:** Next.js 15
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide-React
+- **State:** React Context API
 
 ---
 
 ## 🚀 Qanday ishga tushirish kerak?
 
-Loyiha bilan tanishish uchun quyidagi qadamlarni bajaring:
+```bash
+# 1. Klonlash
+git clone [https://github.com/MadeByIslom/mcdonalds-menu-next.git](https://github.com/MadeByIslom/mcdonalds-menu-next.git)
 
-1. Repository-ni klon qiling:
-   git clone https://github.com/FOYDALANUVCHI_NOMI/REPRO_NOMI.git
+# 2. Kutubxonalarni o'rnatish
+npm install
 
-2. Kerakli kutubxonalarni o'rnating:
-   npm install
-
-3. Loyihani ishga tushiring:
-   npm run dev
+# 3. Localhostda ishga tushirish
+npm run dev
